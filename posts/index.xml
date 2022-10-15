@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Fnof</title><link>https://fnof.github.io/posts/</link><description>Recent content in Posts on Fnof</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2022 00:07:01 -0700</lastBuildDate><atom:link href="https://fnof.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>sidh notes</title><link>https://fnof.github.io/posts/sidh_notes/</link><pubDate>Wed, 10 Aug 2022 00:07:01 -0700</pubDate><guid>https://fnof.github.io/posts/sidh_notes/</guid><description>beginning glossary SIDH - supersingular isogeny diffie hellman.
+Supersingular - an elliptic curve with maximal order.
+Elliptic curve - this definition is simplified. It&amp;rsquo;s an equation of the form \(y^2 \equiv x^3 + ax + b \bmod p\) where \(a, b, p\in \mathbb{Z}\).
+Isogeny - a morphism, not an isomorphism, between two elliptic curves.
+Diffie-Hellman - a key exchange that relies on the hardness of dlog.
+dlog - stands for the discrete logarithm problem.</description></item></channel></rss>
